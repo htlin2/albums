@@ -56,3 +56,4 @@ buck-out/
 *.jsbundle
 
 *.log
+package-lock.json
