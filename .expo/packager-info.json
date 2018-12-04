@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 32056,
-  "expoServerNgrokUrl": "https://is-re7.htlin2.albums.exp.direct",
-  "packagerNgrokUrl": "https://packager.is-re7.htlin2.albums.exp.direct",
-  "ngrokPid": 32070
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
